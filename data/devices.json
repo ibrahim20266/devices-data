@@ -1450,7 +1450,7 @@
       "name": "NanoStation® M2",
       "type": "أجهزة الربط النقطي",
       "model": "NanoStation M2",
-      "action": "مقيد (خارج المعدن)",
+      "action": "مقيد (خارج المدن)",
       "operation": "",
       "description": "",
       "imagePath": "assets/images/devices/image112.png",
@@ -1502,7 +1502,7 @@
       "name": "NanoStation® LocoM2",
       "type": "أجهزة الربط النقطي",
       "model": "NanoStation LocoM2",
-      "action": "مقيد (خارج المعدن)",
+      "action": "مقيد (خارج المدن)",
       "operation": "",
       "description": "",
       "imagePath": "assets/images/devices/image116.png",
@@ -1515,7 +1515,7 @@
       "name": "NanoStation® LocoM5",
       "type": "أجهزة الربط النقطي",
       "model": "NanoStation LocoM5",
-      "action": "مقيد (خارج المعدن)",
+      "action": "مقيد (خارج المدن)",
       "operation": "",
       "description": "",
       "imagePath": "assets/images/devices/image117.png",
@@ -2265,19 +2265,6 @@
       "actionDescription": "في حال تم حجز الأجهزة في أحد المنافذ أو نقاط مكافحة التهريب ولم يكن لدى حاملها تصريح سواء كان مواطن أو تاجر تحجز الأجهزة لحين احضار تصريح من استخبارات الشرطة أو إرجاع الأجهزة الى المصدر (حسب الإجراءات).",
       "executingAuthority": "مندوب استخبارات الشرطة أو مكافحة التهريب في مكان الضبط"
     },
-     {
-      "id": 176,
-      "name": "ibrahim",
-      "type": "أجهزة الربط النقطي",
-      "model": "AP-5AC-90-HD Sector Antenna",
-      "action": "مقيد",
-      "operation": "تجربة التحديث",
-      "description": "تجربة التحديث",
-      "imagePath": "assets/images/devices/image176.png",
-      "company": "airMAX",
-      "actionDescription": "في حال تم حجز الأجهزة في أحد المنافذ أو نقاط مكافحة التهريب ولم يكن لدى حاملها تصريح سواء كان مواطن أو تاجر تحجز الأجهزة لحين احضار تصريح من استخبارات الشرطة أو إرجاع الأجهزة الى المصدر (حسب الإجراءات).",
-      "executingAuthority": "مندوب استخبارات الشرطة أو مكافحة التهريب في مكان الضبط"
-    },
     {
       "id": 175,
       "name": "airMAX® Titanium Sector AM-M-V5G-Ti",
@@ -2291,6 +2278,20 @@
       "actionDescription": "في حال تم حجز الأجهزة في أحد المنافذ أو نقاط مكافحة التهريب ولم يكن لدى حاملها تصريح سواء كان مواطن أو تاجر تحجز الأجهزة لحين احضار تصريح من استخبارات الشرطة أو إرجاع الأجهزة الى المصدر (حسب الإجراءات).",
       "executingAuthority": "مندوب استخبارات الشرطة أو مكافحة التهريب في مكان الضبط"
     }
-  ]
+    ,
+    {
+      "id": 176,
+      "name": "starlink",
+      "type": "أجهزة لا سلكية",
+      "model": "star link",
+      "action": "محضور",
+      "operation": "انترنت غير مراقب من الاقمار الصناعية",
+      "description": "انترنت عبر الاقمار الصناعية بدون رقابة حكومية ويستخدم  للعملاء   ",
+      "imagePath": "assets/images/devices/starlink.png",
+      "company": "starlink",
+      "actionDescription": "اذا كان مواطن أو تاجر: يتم مصادرة الأجهزة، جهات حكومية: يتم حجز الأجهزة لحين موافاة استخبارات الشرطة ببلاغ رسمي من الجهة المستفيدة.",
+      "executingAuthority": "مندوب استخبارات الشرطة أو مكافحة التهريب في مكان الضبط"
+    }
 
+  ]
 }
