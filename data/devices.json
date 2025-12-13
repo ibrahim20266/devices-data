@@ -2284,7 +2284,7 @@
       "name": "starlink",
       "type": "أجهزة لا سلكية",
       "model": "star link",
-      "action": "محضور",
+      "action": "محظور",
       "operation": "انترنت غير مراقب من الاقمار الصناعية",
       "description": "انترنت عبر الاقمار الصناعية بدون رقابة حكومية ويستخدم  للعملاء   ",
       "imagePath": "assets/images/devices/starlink.png",
@@ -2294,4 +2294,5 @@
     }
 
   ]
+
 }
